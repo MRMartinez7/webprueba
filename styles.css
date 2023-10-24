@@ -1,0 +1,49 @@
+body {
+    background-image: url(./img/_d4a3e441-9e91-4a26-8ad6-18b8ad415304.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+#lista-container {
+    margin: 0 auto;
+    width: 30%;
+    color: black    ;
+    background-color: white;
+}
+#listas-container{
+display: flex;
+justify-content:center;
+}
+
+#listaAleatoria1{ 
+    width: 20%;
+    color: black    ;
+    background-color: white;
+
+}
+#listaAleatoria2{ 
+    width: 20%;
+    color: black    ;
+    background-color: white;
+
+}
+
+
+
+/*boton style*/
+#input-container {
+    margin: 20px 0;
+}
+button {
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #11ff00;
+}
